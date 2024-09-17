@@ -1,0 +1,43 @@
+Facebook finally released a tool last week allowing users to check if their personal data was compromised by Cambridge Analytica, the shady British firm that used such data to psychologically profile potential voters. I took a deep breath, clicked, and was greeted with good news: Based on our available records, neither you nor your friends logged in to This Is Your Digital Life  the app that the company used to lure Facebook users into revealing personal data. So my data was not compromised.
+
+Theres an aside in that message that ought to alarm every Facebook user: the phrase neither you nor your friends. And indeed, many Facebook users who checked their status were greeted by a different message: You dont appear to have logged into This Is Your Digital Life ... [h]owever, a friend of yours did. That means their data was collected, although they (wisely) had not personally enabled the app.
+
+Thats because even a user with stringent privacy control practices, but who has friends who were less careful, could have ended up with Cambridge Analytica collecting private information like their phone number, who their family members are, all the places theyve checked in, and which groups theyve joined  including those whose very names and subjects might reveal private information, such as support groups for health conditions.
+
+And really, who can trust that none of their hundreds of friends is careless? All of us have that one uncle who responds to Nigerian prince emails, or the high school friend who has never met a personality quiz they didnt take. Unfortunately, the way Facebooks privacy controls were set up prior to 2014 made it effectively impossible for even the most conscientious Facebook user to protect themselves against the data leakage one friend could cause.
+
+And despite many rounds of revisions and overhauls over the years, Facebook privacy controls still leave many things outside users control. Too many users still dont realize just how vulnerable their data is to their friends third-party apps.
+
+Mark Zuckerberg was scheduled to meet this week with the European Commission vice president in charge of digital issues, Andrus Ansip. Heres some of the problematic history  and continuing problematic behavior  that Ansip, not to mention US regulators, might want to zero in on:
+
+Remember how annoying the days of unfettered apps on Facebook were? Farmville and other games sent a deluge of notifications to friends of players (Sally Smith sent you a sheep on Farmville!). Apps incentivized players to grant the app access to their friends information by restricting play unless they did so, or by letting the players score higher in the game if they did. But the problem went much deeper than annoyance.
+
+When a player granted an app permission to access their friends, it was all or nothing: The app didnt just get access to a list of people; it could see everything the player could see  friends birthdays, phone numbers, posts, check-ins, groups, and more.
+
+Facebook likes to emphasize the role of user choice in control of privacy settings, but app users may not have realized what they were agreeing to when granting access, and app users friends were, of course, not consulted at all.
+
+As a computer scientist, I knew it was foolish to grant that kind of access to dubious quizzes, games, and the like, but I watched in exasperation as my friends eagerly installed them, revealing my information without my consent. I even considered unfriending certain especially app-promiscuous friends, but, realizing this task was Sisyphean, I resigned myself to unwanted and unapproved data leaks.
+
+Facebook might retort that even friends of app users retained some control over their data: If they opted not to let their friends see their birthday or phone number, or even status updates, apps couldnt see those things either! But many users are on Facebook because they enjoy small pleasures like having their friends send them birthday wishes. Should they have to choose between that pleasure and losing their privacy to third-party developers?
+
+And what is the point of updating a Facebook status if your friends are blocked from seeing it? Yet this was the choice that privacy-minded Facebook users confronted at that time.
+
+Since then  in 2014, to be specific  Facebook has decoupled some of these privacy settings: Now you can show your friends your birthday but hide it from your friends apps. The screenshot below shows what the controls look like today. Ive turned off all access, but the default setting is that every piece of data you see listed here is something that your friends apps learn about you:
+
+Whether or not youre comfortable with Facebook having all this data about you, you should definitely not trust third-party app developers with it. Facebook does a cursory check of apps to make sure they meet requirements like not crashing, but there is essentially no vetting of the individuals behind the apps to ensure that they are trustworthy, or even know what theyre doing.
+
+App owners agree to terms of service that prohibit them from, for example, taking every friends only post youve ever written and posting it publicly. But the apps have this data, and in practice, Facebook has no way to ensure they dont abuse it. Facebook doesnt even have a good way to punish violators after the fact, except to ban their apps from collecting new data on Facebook users in the future.
+
+Once the app-makers have the data, Facebook doesnt have an effective way to get it back. Imagine that 30 years from now an amateur author of an obscure, long-defunct Facebook third-party app dusts off their server and remembers they still have the private data of a million people. Now imagine they use the names and phone numbers  along with years of recorded photos and memories  to defraud now-elderly people by convincingly pretending to be a long-lost acquaintance.
+
+Zuckerberg told senators last week, Its not enough to give people control of their information, we have to make sure developers theyve given it to are protecting it too. So far, he hasnt come close to achieving either goal.
+
+Over the past few weeks, there have been many stories about people who have decided to reduce their activity on Facebook, or even delete their account altogether. But this is not enough to ensure that Facebook doesnt continue to collect personal data about you. Here are some examples of ways Facebook gathers data on users  and non-users  that are less obvious than just warehousing what you write and do on the site:
+
+Given the near monopoly Facebook enjoys on what is now a key piece of infrastructure in our global society, protecting our data is essential. Ive heard many friends tell me that recent revelations about privacy problems have made them feel ashamed of their social media use, or ashamed that they find the idea of quitting to be overwhelmingly difficult, or ashamed that their attempt at giving up Facebook for Lent fell apart only a few days in.
+
+I dont think anyone should feel ashamed of wanting to be connected to their friends and family. A better answer than disconnecting from each other is to ensure that those who connect us do so safely and responsibly.
+
+Cynthia Lee is a lecturer in the computer science department at Stanford. She founded the website Peer Instruction for Computer Science to support educators in flipping their computer science classrooms using peer instruction. She has a PhD in high-performance computing.
+
+The Big Idea is Voxs home for smart discussion of the most important issues and ideas in politics, science, and culture  typically by outside contributors. If you have an idea for a piece, pitch us at thebigidea@vox.com.

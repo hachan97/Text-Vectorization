@@ -1,0 +1,63 @@
+Elections serve two purposes. The first, and obvious, purpose is to accurately choose the winner. But the second is equally important: to convince the loser. To the extent that an election system is not transparently and auditably accurate, it fails in that second purpose. Our election systems are failing, and we need to fix them.
+
+
+
+Today, we conduct our elections on computers. Our registration lists are in computer databases. We vote on computerized voting machines. And our tabulation and reporting is done on computers. We do this for a lot of good reasons, but a side effect is that elections now have all the insecurities inherent in computers. The only way to reliably protect elections from both malice and accident is to use something that is not hackable or unreliable at scale; the best way to do that is to back up as much of the system as possible with paper.
+
+
+
+Recently, there have been two graphic demonstrations of how bad our computerized voting system is. In 2007, the states of California and Ohio conducted audits of their electronic voting machines. Expert review teams found exploitable vulnerabilities in almost every component they examined. The researchers were able to undetectably alter vote tallies, erase audit logs, and load malware on to the systems. Some of their attacks could be implemented by a single individual with no greater access than a normal poll worker; others could be done remotely.
+
+
+
+Last year, the Defcon hackers conference sponsored a Voting Village. Organizers collected 25 pieces of voting equipment, including voting machines and electronic poll books. By the end of the weekend, conference attendees had found ways to compromise every piece of test equipment: to load malicious software, compromise vote tallies and audit logs, or cause equipment to fail.
+
+Its important to understand that these were not well-funded nation-state attackers. These were not even academics who had been studying the problem for weeks. These were bored hackers, with no experience with voting machines, playing around between parties one weekend.
+
+
+
+It shouldnt be any surprise that voting equipment, including voting machines, voter registration databases, and vote tabulation systems, are that hackable. Theyre computers  often ancient computers running operating systems no longer supported by the manufacturers  and they dont have any magical security technology that the rest of the industry isnt privy to. If anything, theyre less secure than the computers we generally use, because their manufacturers hide any flaws behind the proprietary nature of their equipment.
+
+Were not just worried about altering the vote. Sometimes causing widespread failures, or even just sowing mistrust in the system, is enough. And an election whose results are not trusted or believed is a failed election.
+
+Voting systems have another requirement that makes security even harder to achieve: the requirement for a secret ballot. Because we have to securely separate the election-roll system that determines who can vote from the system that collects and tabulates the votes, we cant use the security systems available to banking and other high-value applications.
+
+We can securely bank online, but cant securely vote online. If we could do away with anonymity  if everyone could check that their vote was counted correctly  then it would be easy to secure the vote. But that would lead to other problems. Before the US had the secret ballot, voter coercion and vote-buying were widespread.
+
+
+
+We cant, so we need to accept that our voting systems are insecure. We need an election system that is resilient to the threats. And for many parts of the system, that means paper.
+
+
+
+Lets start with the voter rolls. We know theyve already been targeted. In 2016, someone changed the party affiliation of hundreds of voters before the Republican primary. Thats just one possibility. A well-executed attack that deletes, for example, one in five voters at random  or changes their addresses  would cause chaos on election day.
+
+
+
+Yes, we need to shore up the security of these systems. We need better computer, network, and database security for the various state voter organizations. We also need to better secure the voter registration websites, with better design and better internet security. We need better security for the companies that build and sell all this equipment.
+
+
+
+Multiple, unchangeable backups are essential. A record of every addition, deletion, and change needs to be stored on a separate system, on write-only media like a DVD. Copies of that DVD, or  even better  a paper printout of the voter rolls, should be available at every polling place on election day. We need to be ready for anything.
+
+Next, the voting machines themselves. Security researchers agree that the gold standard is a voter-verified paper ballot. The easiest (and cheapest) way to achieve this is through optical-scan voting. Voters mark paper ballots by hand; they are fed into a machine and counted automatically. That paper ballot is saved, and serves as a final true record in a recount in case of problems. Touch-screen machines that print a paper ballot to drop in a ballot box can also work for voters with disabilities, as long as the ballot can be easily read and verified by the voter.
+
+Finally, the tabulation and reporting systems. Here again we need more security in the process, but we must always use those paper ballots as checks on the computers. A manual, post-election, risk-limiting audit varies the number of ballots examined according to the margin of victory. Conducting this audit after every election, before the results are certified, gives us confidence that the election outcome is correct, even if the voting machines and tabulation computers have been tampered with. Additionally, we need better coordination and communications when incidents occur.
+
+
+
+Its vital to agree on these procedures and policies before an election. Before the fact, when anyone can win and no one knows whose votes might be changed, its easy to agree on strong security. But after the vote, someone is the presumptive winner  and then everything changes. Half of the country wants the result to stand, and half wants it reversed. At that point, its too late to agree on anything.
+
+
+
+The politicians running in the election shouldnt have to argue their challenges in court. Getting elections right is in the interest of all citizens. Many countries have independent election commissions that are charged with conducting elections and ensuring their security. We dont do that in the US.
+
+Instead, we have representatives from each of our two parties in the room, keeping an eye on each other. That provided acceptable security against 20th-century threats, but is totally inadequate to secure our elections in the 21st century. And the belief that the diversity of voting systems in the US provides a measure of security is a dangerous myth, because few districts can be decisive and there are so few voting-machine vendors.
+
+
+
+We can do better. In 2017, the Department of Homeland Security declared elections to be critical infrastructure, allowing the department to focus on securing them. On 23 March, Congress allocated $380m to states to upgrade election security.
+
+
+
+These are good starts, but dont go nearly far enough. The constitution delegates elections to the states but allows Congress to make or alter such Regulations. In 1845, Congress set a nationwide election day. Today, we need it to set uniform and strict election standards.

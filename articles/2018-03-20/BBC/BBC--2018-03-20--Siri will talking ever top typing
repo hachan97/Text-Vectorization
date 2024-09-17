@@ -1,0 +1,77 @@
+We're growing more used to chatting to our computers, phones and smart speakers through voice assistants like Amazon's Alexa, Apple's Siri, Microsoft's Cortana and Google's Assistant.
+
+And blind and partially sighted people have been using text-to-speech converters for decades. Some think voice could soon take over from typing and clicking as the main way to interact online. But what are the challenges of moving to "the spoken web"?
+
+What use is written online content if you can't read?
+
+That is the situation facing illiterate Ghanaian farmers denied crucial information the web offers many others.
+
+With a literacy rate in northern Ghana of only 22.6%, farmers are often "underpaid for their produce because they might be unaware of the prevailing prices," says Francis Dittoh, a researcher behind Mr Meteo, a speech-based weather information service.
+
+"The most recurring complaint is about rainfall predictions," says Mr Dittoh, who lives in Tamale, northern Ghana.
+
+"They tell us the methods their forefathers used to predict the weather don't seem to work as well these days."
+
+This is down to climate change, he believes. Yet knowing when it's going to rain is vital for farmers wanting to sow seeds, irrigate crops or graze their animals.
+
+Mr Dittoh says the idea of converting online weather reports in to speech came from the farmers themselves, after a workshop in the village of Guabuligah.
+
+"They came up with this," he says.
+
+Mr Meteo takes the online weather forecast, converts it to a short recording in the appropriate language and makes it available on a basic phone. Farmers ring up to receive the information. The local language Dagbani is spoken by 1.2 million people but is not served by Google Translate.
+
+The service was designed to be cheap and easy to run, says Mr Dittoh - it works on a Raspberry Pi 2 computer with a GSM dongle. He plans to begin field tests this month, working with Tamale's Savanna Agricultural Research Institute.
+
+The spoken web could also help the one-in-five adults in Europe and the US with poor reading skills, says Anna Bon, a university researcher in Amsterdam who worked on earlier prototypes of the web-to-voice system in Mali and Burkina Faso.
+
+But building the spoken web - web-to-voice and voice-to-web - isn't straightforward.
+
+"To understand pizza is served at Italian restaurants is easy," says Nils Lenke, head of research at speech recognition company Nuance.
+
+"To cover multiple domains and to be able to have a conversation with you on every single topic, that's still far out."
+
+So although Alexa and the others can answer simple questions about the weather and play music for us, anything resembling a wide-ranging human conversation is decades away, most experts agree.
+
+Artificial intelligence just isn't smart enough yet.
+
+Even transcribing your voice into text - automatic speech recognition - is "one of the hardest problems to solve, as there are as many ways to pronounce things as there are people on the planet", says Rand Hindi, Paris-based founder of speech start-up Snips.
+
+This may be an exaggeration, but the multiplicity of local dialects and accents certainly makes the task a formidable one.
+
+Web-to-voice interfaces are getting better though, says Mr Hindi. They've started to learn to handle quotation marks and the pause between titles and by-lines, and now sound a bit less robotic.
+
+Now "they can ...emphasise boldface and whispering italics," he says.
+
+But digital voices need more personality to make them popular, believes Anna Bon.
+
+"Robots are not yet witty, Siri is boring," she says.
+
+The benefits of using voice instead of tapping fingers obviously depends on the context.
+
+Doctors completing online forms about their patients by speech, for example, can dictate 150 words a minute, three times faster than typing on a keyboard, says Mr Lenke.
+
+This enables them to spend less time on administration and more time with patients.
+
+In 2017, Nuance helped a doctors' surgery in Dukinfield, near Manchester, set up a speech system for the practice's six doctors. Now they can dictate notes on a patient's health condition and treatment and a smart assistant automatically enters the information into the right fields on a web form.
+
+Previously, the doctors made voice recordings that were then transcribed by secretaries - a process that was costly and prone to backlogs.
+
+The new system has enabled the practice to treat four more patients a day, and letters to patients now have more detail, says practice manager Julie Pregnall.
+
+Using voice also makes sense when you're doing other things with your hands.
+
+"Think about when you're cooking," says Mr Hindi, "and you just want to know what's the next step in the recipe. Your hands are greasy, you're not going to get on the iPad, so it's a lot more natural to talk."
+
+And speech obviously makes sense when you're driving.
+
+In the US, 29% of drivers admit they surf behind the wheel, according to insurance firm State Farm. This is up from 13% in 2009.
+
+No wonder using mobile phones while driving causes more crashes a year than drink driving, says the US National Safety Council.
+
+Steve Word is the engineer behind a recently launched plug-in called Polly, which lends a speech function to WordPress websites.
+
+"In complicated written languages like Mandarin, speech might give you an advantage," he says.
+
+Speech is less useful in libraries, places of worship or lecture theatres, of course, so it's clear that while up to half of all searches could be voice by 2020, according to some forecasts, the web will have to be accessible by any which way we want, depending on context.
+
+But building the spoken web will be easier said than done, it seems.

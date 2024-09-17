@@ -1,0 +1,67 @@
+More and more people who commit violence against their intimate partners are using technology to make their victims lives worse.
+
+Consider one case we came across in our research: A woman in New York City who was being abused had sought help at a counseling center  privately, she thought. Her partner, however, had installed a tracking device on her phone, drove to the center, and literally kicked in its door. Counselors ended up calling the police.
+
+Violence against intimate partners is widespread: It affects nearly one in four women and one in six men at some point in their lives. That violence is harrowing enough. But now imagine that your abusive girlfriend, boyfriend, or spouse has the ability to track your every location, read your text messages, listen to your phone calls, and more.
+
+That degree of access gives abusers a disturbing level of control over their victims digital lives, exacerbating whatever physical, emotional, and sexual abuse they are inflicting.
+
+Victim advocates, academics, and tech companies must work together to combat the problem. The first step is identifying the tactics and tools that abusers are using. We recently took a close look at one specific type of software that they often deploy: spyware used to track and monitor victims.
+
+News media, academic researchers, and victim advocates have long acknowledged the threat of spyware in domestic abuse situations. But our research (conducted with our students) brings to light the ease with which spyware can be deployed by abusers, and the broad scope of software usable as spyware.
+
+Whats unique about intimate partner violence is that the very nature of the relationship allows abusers to easily skirt the kinds of security mechanisms that stop ordinary hackers. Intimate abusers dont even need to be technically sophisticated. Abusers often have physical access to their partners devices, and they either know their passwords and PINs or can guess them (or can compel disclosure, sometimes by physical threats).
+
+They then take advantage of this access to take over digital accounts, monitor their victims, lock them out of crucial accounts, and reveal private information  or threaten to do so to control the victim.
+
+Once an abuser gains access to a victims device, he or she can install software that can covertly monitor the device and, by extension, the persons most intimate day-to-day activities. Their location. Their text messages. All their pictures and videos. Whom they talk to, from where, and what they say. Some apps make it possible to remotely record video and audio.
+
+One might hope that spyware of this sort would only be available to well-provisioned nation-state intelligence agencies or, at the very least, computer science experts.
+
+Unfortunately, its not so. Installing powerful spyware is just a few clicks away. Search on the web for track my girlfriend and youll find plentiful links to software, how-to guides, and forums all aimed at making it easy for abusers to spy on victims. All the tools an abuser needs are present on Google and Apples app stores; installation is as simple as grabbing the victims device, typing the password (possibly stolen), and downloading an app. Many such apps require a fee, but in some cases, you can spy free of charge.
+
+And our research shows that current anti-malware programs most often dont identify such software as problematic.
+
+A knee-jerk reaction is outrage that Google and Apple allow such software in their online stores. But such finger-wagging is wrongheaded because its more challenging to identify most spyware than it first seems.
+
+Apps that can be used as spyware range across a spectrum. On one end are tools like FlexiSpy and HelloSpy that are overtly branded for tracking people and, in many cases, have websites that explicitly advertise their utility to intimate partner abusers. HelloSpys website says the product can be used for Catching Cheating Spouses and, remarkably, features a photograph of a man grabbing a womans arm; bruises and scratches are visible on her face.
+
+Overt spyware violates Google and Apples policies; neither FlexiSpy nor HelloSpy is available in their app stores.
+
+On the other end of the spectrum are a wide range of tools with legitimate uses: find my friends apps, anti-theft apps, and child safety apps (all of which often include a GPS-powered tracking and other monitoring features).
+
+These are dual use apps. In some cases, they can be installed with the permission of the device owner and used for socially acceptable purposes. In other cases, an abuser can install them covertly on an intimate partners device for stalking. Asking Google and Apple to ban all apps that could be used for malign purposes seems as realistic as asking that we ban the sale of kitchen knives to prevent stabbings.
+
+The overtness of an apps purpose is, of course, a judgment call, and legitimate apps and their developers could be unfairly punished by overzealous banning. Abusers may also be able to repurpose innocuous apps that provide the relevant capabilities. In our study, we found thousands of apps on the Google Play Store and hundreds of apps on Apples App Store that advertise capabilities useful to abusers.
+
+Many of these apps have been installed by hundreds of thousands of people. Some subset of those installations are for abuse. No one knows how many.
+
+The complexity doesnt stop with this dichotomy between dual-use apps and overt spyware. Weve observed an emerging gray market of apps that are ostensibly dual-use but, for a variety of reasons, we believe are designed for and marketed to abusers.
+
+In other words, the developers are acting in bad faith, pretending to be legitimate but seeking to profit off abuse. Some developers may have been driven to do this because of previous US government actions against overt spyware vendors. The Federal Trade Commission in 2010 imposed severe restrictions on how CyberSpy Software could advertise RemoteSpy software  and required that features be disabled, like the ability to disguise an installation package as an innocuous photograph.
+
+Makers of such spyware also want the huge commercial edge that comes with placement on the official Google and Apple stores  which creates an incentive to lie about the apps intended audience. Weve seen many apps that have webpages marketing the tool for tracking ones own phone or for child safety; some even include explicit disclaimers that the apps shouldnt be used for abuse.
+
+However, we have gathered a lot of circumstantial yet compelling evidence that some of these disclaimers are disingenuous. Paid advertisements for some ostensibly innocent apps appeared in response to Google or Play Store searches for phrases like track my girlfriend.
+
+We have also uncovered what appears to be networks of fake blogs discussing how useful a given app is for abuse, with links to the supposedly legitimate apps webpage. We suspect those blogs are run by affiliate marketers or the companies themselves. A typical blog entry we found urged readers: Dont be a sucker: track your girlfriends iPhone now ... Catch her today.
+
+We went so far as to contact 11 apps customer support services via email, posing as a would-be abuser: Hi, If I use this app to track my husband will he know that I am tracking him? Thanks, Jessie. Two never replied. Of the rest, all but one tacitly or explicitly encouraged malicious tracking. (We also contacted app companies posing as victims who wanted help removing the companies software; only one replied, and the advice was unhelpful.)
+
+Such duplicity makes it hard to separate the good apps from the bad apps, not only for Google and Apple but also for antivirus software and law enforcement.
+
+Nevertheless, we believe that together, tech companies, advocates, government, and academics can do more to make technology work better for victims of intimate partner violence. In response to our research, Google, whose platform was the primary focus of our work, immediately changed some of its practices. It has already stopped serving advertisements for abuse-related searches. The company has updated its Play store policies to be more restrictive about apps that market themselves for the purpose of tracking a partner, and it banned some as a result.
+
+These are good first steps, but there is much more to do. Most pressing is the need to develop better methods for detecting spyware tools, including dual-use ones  building on our preliminary efforts  in a way that is useful to victims. As we do that, we should also help advocates create safety protocols that help victims decide what to do should spyware be found. Removing the spyware may not always be the safest course of action since it could trigger an abuser to escalate to physical confrontation.
+
+More broadly, we need to develop new processes for designing software with the realities of intimate partner violence in mind. Does an app really need easy location tracking by others as a feature? If so, how should consent be obtained and ongoing notifications be performed? Can we make apps harder to reconfigure by an abuser for illicit ends?
+
+Certainly, we think that Apple and Google (and other companies) should alert users of their mobile operating systems when a phone is being monitored remotely, but exactly how to define remote monitoring, and how to make alerts meaningful to users, represent ongoing challenges.
+
+We also need accountability. We should develop corporate policy mechanisms, legal frameworks, and investigatory practices for punishing developers that clearly facilitate abuse. Government agencies such as the FTC, the Justice Department, and the FBI could play a role in helping discover and punish bad actors.
+
+Technology is just one aspect of this complex social ill, and we certainly cant fix intimate partner violence via technology. But as the world works toward ending abuse, technologists can and should do much more to help abuse survivors  as well as vulnerable people who are not yet victims.
+
+Karen Levy is an assistant professor at Cornell Universitys Cornell Tech campus. Nicola Dell is an assistant professor at Cornell Tech. Damon McCoy is an assistant professor of computer science and engineering at New York University. Thomas Ristenpart is an associate professor at Cornell Tech. Their paper The Spyware Used in Intimate Partner Violence  with additional co-authors Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, and Jackeline Palmer  was a contribution to the IEEE Symposium on Security and Privacy.
+
+The Big Idea is Voxs home for smart discussion of the most important issues and ideas in politics, science, and culture  typically by outside contributors. If you have an idea for a piece, pitch us at thebigidea@vox.com.
